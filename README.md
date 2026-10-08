@@ -42,4 +42,4 @@ Based on feature correlation analysis with the target classification level, the 
 * **Gradient Boosting** and **Decision Tree** models yielded superior diagnostic precision, making them highly effective candidate algorithms for automated clinical risk assessment tools.
 * High correlation factors such as *Coughing of Blood*, *Dust Allergy*, and *Passive Smoking* play pivotal roles in early detection.
 ---
-> **Note:** This repository serves as the analytical case study and documentation of the model's evaluation. The full report is available in the repository as a PDF (`Lung_Cancer_Detection_Report.pdf`).
+> **Note:** This repository serves as the analytical case study and documentation of the model's evaluation. The full report is available in the repository as a PDF (`LUNG_CANCER_DETECTION_MODEL.pdf`).
