@@ -3,7 +3,7 @@ This repository presents a comprehensive comparative analysis and research docum
 ## 📌 Project Overview
 The primary objective of this project is to evaluate and compare multiple machine learning classifiers to accurately predict lung cancer risk levels (Low, Medium, High) based on patient demographics, biological factors, environmental exposures, and early symptoms.
 ## 📊 Dataset & Features
-The model evaluates several critical risk factors and clinical symptoms, including:
+* **Data Source:** [Kaggle - Cause of Lung Cancer Dataset](https://www.kaggle.com/code/kxndxkxvw/cause-of-lung-cancer-visualization/input)
 * **Demographics & Lifestyle:** Age, Gender, Smoking Habits, Passive Smoking, Alcohol Use, Obesity, Diet.
 * **Environmental & Occupational:** Air Pollution, Dust Allergy, Occupational Hazards.
 * **Medical History & Symptoms:** Genetic Risk, Chronic Lung Disease, Chest Pain, Coughing of Blood, Fatigue, Weight Loss, Shortness of Breath, Wheezing, Swallowing Difficulty, Dry Cough, Snoring.
@@ -42,4 +42,4 @@ Based on feature correlation analysis with the target classification level, the 
 * **Gradient Boosting** and **Decision Tree** models yielded superior diagnostic precision, making them highly effective candidate algorithms for automated clinical risk assessment tools.
 * High correlation factors such as *Coughing of Blood*, *Dust Allergy*, and *Passive Smoking* play pivotal roles in early detection.
 ---
-> **Note:** This repository serves as the analytical case study and documentation of the model's evaluation. The full report is available in the repository as a PDF (`LUNG_CANCER_DETECTION_MODEL.pdf`).
+> **Note:** This repository serves as the analytical case study and documentation of the model's evaluation. The full report is available in the repository as a PDF (`LUNG CANCER STAGE DETECTION MODEL .pdf`).
